@@ -54,7 +54,7 @@
       <updated>1634557566211</updated>
       <workItem from="1634557567315" duration="1217000" />
       <workItem from="1634558992142" duration="96000" />
-      <workItem from="1634559108922" duration="4432000" />
+      <workItem from="1634559108922" duration="4629000" />
     </task>
     <task id="LOCAL-00001" summary="coucou">
       <created>1634558110414</created>
@@ -77,7 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1634564387747</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="edftgy">
+      <created>1634564695001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634564695001</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edftgy">
+      <created>1634564808148</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634564808148</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +104,7 @@
     <MESSAGE value="sdfghjklm" />
     <MESSAGE value="dfg" />
     <MESSAGE value="dfghj" />
-    <option name="LAST_COMMIT_MESSAGE" value="dfghj" />
+    <MESSAGE value="edftgy" />
+    <option name="LAST_COMMIT_MESSAGE" value="edftgy" />
   </component>
 </project>
