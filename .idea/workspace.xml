@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4c3e2f1-d37b-42f9-b3c5-c1395fa5863f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="f4c3e2f1-d37b-42f9-b3c5-c1395fa5863f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,7 @@
       <updated>1634557566211</updated>
       <workItem from="1634557567315" duration="1217000" />
       <workItem from="1634558992142" duration="96000" />
-      <workItem from="1634559108922" duration="4629000" />
+      <workItem from="1634559108922" duration="4974000" />
     </task>
     <task id="LOCAL-00001" summary="coucou">
       <created>1634558110414</created>
@@ -91,7 +89,35 @@
       <option name="project" value="LOCAL" />
       <updated>1634564808148</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="edftgy">
+      <created>1634564846659</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634564846659</updated>
+    </task>
+    <task id="LOCAL-00007" summary="edftgy">
+      <created>1634564874577</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1634564874577</updated>
+    </task>
+    <task id="LOCAL-00008" summary="edftgy">
+      <created>1634564959857</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1634564959857</updated>
+    </task>
+    <task id="LOCAL-00009" summary="edftgy">
+      <created>1634565014522</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634565014522</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
