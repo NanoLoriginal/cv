@@ -1,0 +1,16 @@
+div{
+    width: 320px;
+    height: 160px;
+    border: 1px solid #333;
+    margin: 10px auto;
+    background-color : RGBa(255, 255, 0, 0.2);
+}
+
+body{
+    background-image: url("https://www.pierre-giraud.com/wp-content/uploads/2019/07/emoji-smile.png");
+    background-color : RGBa(255, 255, 0, 0.2);
+}
+
+#ex1{
+    background-image: url("https://www.pierre-giraud.com/wp-content/uploads/2019/07/sunset.jpg")
+}
