@@ -1,6 +1,6 @@
 div{
-    width: 320px;
-    height: 160px;
+    width: 1920px;
+    height: 1080px;
     border: 1px solid #333;
     margin: 10px auto;
     background-color : RGBa(255, 255, 0, 0.2);
@@ -12,5 +12,5 @@ body{
 }
 
 #ex1{
-    background-image: url("https://www.pierre-giraud.com/wp-content/uploads/2019/07/sunset.jpg")
+    background-image: url("https://images.unsplash.com/photo-1500964757637-c85e8a162699?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmVhdXRpZnVsJTIwbGFuZHNjYXBlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80")
 }
